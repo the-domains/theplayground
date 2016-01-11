@@ -2,6 +2,7 @@ name: theplayground
 favicon: null
 layout_spectrum: 0.1378944267053157
 typography_spectrum: 0.8014732054434717
+title: The Playground
 cta:
   domain: null
   bucket: null
