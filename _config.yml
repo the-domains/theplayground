@@ -1,7 +1,18 @@
+layout_spectrum: 0.7667921911925077
+typography_spectrum: 0.3123374618589878
+color:
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  brandStrength: 0.5596894479822367
+  lightness: 0.06447888724505901
+  saturation: 0.5189397097565234
+  rhythmicContrast: 0.4366525155492127
 name: theplayground
 favicon: null
-layout_spectrum: 0.1378944267053157
-typography_spectrum: 0.8014732054434717
 title: The Playground
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#334760'
-    - '#ffd600'
-    - '#906f00'
-    - '#d09e01'
-    - '#fff57d'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0.75
-  rhythmicContrast: 1
 purpose: []
